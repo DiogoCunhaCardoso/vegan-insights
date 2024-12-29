@@ -24,7 +24,7 @@
 export default {
   data() {
     return {
-      author: "Diogo cardoso",
+      author: "Diogo Cardoso",
       linkedinUrl: "https://www.linkedin.com/in/diogo-cunha-cardoso-b37242213/",
       description:
         "Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose.",
